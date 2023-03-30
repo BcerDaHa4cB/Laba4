@@ -2,7 +2,9 @@
 
 int main(int argc, char **argv)
 {
-    printf("Hello world!\n");
-    printf("My surname Dryakin\n");
+    printf("Hello world!");
+    printf("My surname Dryakin");
+    printf(" My name Ivan\n");
+    printf("Glad to know\n");
     return 0;
 }

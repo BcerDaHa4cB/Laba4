@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main(int argc, char **argv)
+{
+    printf("Monday!\n");
+    printf("Tuesday!\n");
+    printf("Wednsday!\n");
+    printf("Thursday!\n");
+    printf("Friday!\n");
+    printf("Saturday!\n");
+    printf("Sunday!\n");
+    return 0;
+}
